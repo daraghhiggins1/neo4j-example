@@ -1,15 +1,10 @@
 # neo4j-example
 
-
-
-==============================================
             Cloning Repos
 ==============================================
 
 git clone https://github.com/daraghhiggins1/neo4j-example.git
 
-
-=============================================
             Installation of neo4j
 =============================================
 
@@ -38,7 +33,6 @@ Linux:
 Note: Disregarding operating system, for login use the following credentials:
           Username: neo4j     Password: neo4j
 
-=================================================
           Java API Usage
 =================================================
 
